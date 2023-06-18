@@ -6,7 +6,7 @@
 <p>The idea here was to use two Qualitative User Experience research methods to design a new interface for the company website. As such, the User Interview and User Persona research methods were used to determine what changes would be most beneficial and a set of high fidelity wireframes were developed based on the findings.</p>
 
 <h3> Technology used </h3>
-	- [Pencil](https://pencil.en.softonic.com/)
+	- <a href="https://pencil.en.softonic.com/">Pencil</a>
 
 <h3> Screenshots </h3>
 
