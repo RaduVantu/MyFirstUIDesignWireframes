@@ -8,6 +8,22 @@
 <h3> Technology used </h3>
 	- <a href="https://pencil.en.softonic.com/">Pencil</a>
 
-<h3> Screenshots </h3>
-
-<p> Coming soon </p>
+<h3> Images </h3>
+<br/>
+<br/>
+<p align="center"> 
+	Home page layout <br/>
+	<a href="https://imgur.com/fSqLJSE"><img src="https://i.imgur.com/fSqLJSE.png" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Product serch options and results <br/>
+	<a href="https://imgur.com/uECUawU"><img src="https://i.imgur.com/uECUawU.png" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Product details <br/>
+	<a href="https://imgur.com/qma6Vt2"><img src="https://i.imgur.com/qma6Vt2.png" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Checkout <br/>
+	<a href="https://imgur.com/Mvcma3W"><img src="https://i.imgur.com/Mvcma3W.png" title="source: imgur.com" /></a>	
+</p>
